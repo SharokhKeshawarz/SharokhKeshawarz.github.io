@@ -190,7 +190,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(../images/portfolio/image.jpg)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
@@ -277,7 +277,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     content: " ";
     top: 0;
     left:  0;
-    width: 109%;
+    width: 102%;
     height:  100%;
     background: rgba(31,44,108,.3);
 }
@@ -292,7 +292,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 109%;
+    width: 102%;
     height: 90px;
     background: #1f2c6c;
 }
